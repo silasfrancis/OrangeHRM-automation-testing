@@ -1,0 +1,112 @@
+2024-03-28 23:33:42,925 - root - INFO - **********Test_007_DDT_Login*********
+2024-03-28 23:33:43,335 - root - INFO - *****************Verifying Login DDT test*****************************
+2024-03-28 23:34:21,486 - root - INFO - ****Login DDT test passed*****
+2024-03-28 23:34:23,110 - root - INFO - ****** End of Login DDT Test ********
+2024-03-28 23:34:23,111 - root - INFO - ****** Completed Test_007_DDT_Login ********
+2024-03-28 23:41:12,051 - selenium.webdriver.common.selenium_manager - WARNING - The chromedriver version (122.0.6261.128) detected in PATH at C:\Users\CHARLIE\AppData\Local\Programs\Python\Python312\Scripts\chromedriver.exe might not be compatible with the detected chrome version (123.0.6312.86); currently, chromedriver 123.0.6312.86 is recommended for chrome 123.*, so it is advised to delete the driver in PATH and retry
+2024-03-28 23:41:32,153 - root - INFO - **********Test_007_DDT_Login*********
+2024-03-28 23:41:32,154 - root - INFO - *****************Verifying Login DDT test*****************************
+2024-03-28 23:42:21,933 - root - INFO - ****Login DDT test passed*****
+2024-03-28 23:42:29,332 - root - INFO - ****** End of Login DDT Test ********
+2024-03-28 23:42:29,333 - root - INFO - ****** Completed Test_007_DDT_Login ********
+2024-03-30 19:43:46,860 - selenium.webdriver.common.selenium_manager - WARNING - The chromedriver version (122.0.6261.128) detected in PATH at C:\Users\CHARLIE\AppData\Local\Programs\Python\Python312\Scripts\chromedriver.exe might not be compatible with the detected chrome version (123.0.6312.86); currently, chromedriver 123.0.6312.86 is recommended for chrome 123.*, so it is advised to delete the driver in PATH and retry
+2024-03-30 19:44:12,660 - root - INFO - *************** Starting HomePage Title Test ***************
+2024-03-30 19:44:19,588 - root - INFO - ***************Home Page Title Test Passed ***************
+2024-03-30 19:44:22,518 - root - INFO - *************** Finished Home Page Title Test ***************
+2024-03-30 19:44:22,956 - selenium.webdriver.common.selenium_manager - WARNING - The chromedriver version (122.0.6261.128) detected in PATH at C:\Users\CHARLIE\AppData\Local\Programs\Python\Python312\Scripts\chromedriver.exe might not be compatible with the detected chrome version (123.0.6312.86); currently, chromedriver 123.0.6312.86 is recommended for chrome 123.*, so it is advised to delete the driver in PATH and retry
+2024-03-30 19:44:24,305 - root - INFO - *************** Starting Login Test ***************
+2024-03-30 19:44:43,372 - root - INFO - *************** Login Test Passed ***************
+2024-03-30 19:44:45,358 - root - INFO - *************** Finished Login Test ***************
+2024-03-30 19:44:45,358 - root - INFO - *************** Finished Test_001_Login ***************
+2024-03-30 19:44:47,030 - selenium.webdriver.common.selenium_manager - WARNING - The chromedriver version (122.0.6261.128) detected in PATH at C:\Users\CHARLIE\AppData\Local\Programs\Python\Python312\Scripts\chromedriver.exe might not be compatible with the detected chrome version (123.0.6312.86); currently, chromedriver 123.0.6312.86 is recommended for chrome 123.*, so it is advised to delete the driver in PATH and retry
+2024-03-30 19:44:48,433 - root - INFO - **************** Starting Creating Employee Test ****************
+2024-03-30 19:44:58,250 - root - INFO - ************ Login Successful ************
+2024-03-30 19:44:58,250 - root - INFO - **************** Creating Employee ****************
+2024-03-30 19:45:05,981 - root - INFO - ***************** Employee Created ***************
+2024-03-30 19:45:05,981 - root - INFO - ***************** Test_002_CreateEmployee Successful ***************
+2024-03-30 19:45:07,891 - selenium.webdriver.common.selenium_manager - WARNING - The chromedriver version (122.0.6261.128) detected in PATH at C:\Users\CHARLIE\AppData\Local\Programs\Python\Python312\Scripts\chromedriver.exe might not be compatible with the detected chrome version (123.0.6312.86); currently, chromedriver 123.0.6312.86 is recommended for chrome 123.*, so it is advised to delete the driver in PATH and retry
+2024-03-30 19:45:09,379 - root - INFO - **************** Starting Registering Employee as UserTest ****************
+2024-03-30 19:45:21,896 - root - INFO - ************ Login Successful ************
+2024-03-30 19:45:21,896 - root - INFO - **************** Registering Employee as User ****************
+2024-03-30 23:32:08,261 - selenium.webdriver.common.selenium_manager - WARNING - The chromedriver version (122.0.6261.128) detected in PATH at C:\Users\CHARLIE\AppData\Local\Programs\Python\Python312\Scripts\chromedriver.exe might not be compatible with the detected chrome version (123.0.6312.86); currently, chromedriver 123.0.6312.86 is recommended for chrome 123.*, so it is advised to delete the driver in PATH and retry
+2024-03-30 23:32:34,064 - root - INFO - **********Test_007_DDT_Login*********
+2024-03-30 23:32:34,065 - root - INFO - *****************Verifying Login DDT test*****************************
+2024-03-30 23:33:01,297 - root - INFO - ****Login DDT test passed*****
+2024-03-30 23:33:03,231 - root - INFO - ****** End of Login DDT Test ********
+2024-03-30 23:33:03,232 - root - INFO - ****** Completed Test_007_DDT_Login ********
+2024-03-30 23:37:10,923 - selenium.webdriver.common.selenium_manager - WARNING - The chromedriver version (122.0.6261.128) detected in PATH at C:\Users\CHARLIE\AppData\Local\Programs\Python\Python312\Scripts\chromedriver.exe might not be compatible with the detected chrome version (123.0.6312.86); currently, chromedriver 123.0.6312.86 is recommended for chrome 123.*, so it is advised to delete the driver in PATH and retry
+2024-03-30 23:37:13,147 - root - INFO - **********Test_007_DDT_Login*********
+2024-03-30 23:37:13,147 - root - INFO - *****************Verifying Login DDT test*****************************
+2024-03-30 23:38:02,177 - root - INFO - ****Login DDT test passed*****
+2024-03-30 23:38:04,955 - root - INFO - ****** End of Login DDT Test ********
+2024-03-30 23:38:04,955 - root - INFO - ****** Completed Test_007_DDT_Login ********
+2024-03-30 23:48:52,244 - selenium.webdriver.common.selenium_manager - WARNING - The chromedriver version (122.0.6261.128) detected in PATH at C:\Users\CHARLIE\AppData\Local\Programs\Python\Python312\Scripts\chromedriver.exe might not be compatible with the detected chrome version (123.0.6312.86); currently, chromedriver 123.0.6312.86 is recommended for chrome 123.*, so it is advised to delete the driver in PATH and retry
+2024-03-30 23:49:02,408 - root - INFO - **********Test_007_DDT_Login*********
+2024-03-30 23:49:02,409 - root - INFO - *****************Verifying Login DDT test*****************************
+2024-03-30 23:49:18,960 - root - INFO - ****Login DDT test passed*****
+2024-03-30 23:49:38,040 - root - INFO - ****** End of Login DDT Test ********
+2024-03-30 23:49:38,041 - root - INFO - ****** Completed Test_007_DDT_Login ********
+2024-03-30 23:50:14,517 - selenium.webdriver.common.selenium_manager - WARNING - The chromedriver version (122.0.6261.128) detected in PATH at C:\Users\CHARLIE\AppData\Local\Programs\Python\Python312\Scripts\chromedriver.exe might not be compatible with the detected chrome version (123.0.6312.86); currently, chromedriver 123.0.6312.86 is recommended for chrome 123.*, so it is advised to delete the driver in PATH and retry
+2024-03-30 23:50:16,588 - root - INFO - ********** Test_008_DDT_CreateEmployee *********
+2024-03-30 23:50:16,588 - root - INFO - *****************Verifying Login DDT test*****************************
+2024-03-30 23:50:37,809 - root - INFO - ************ Login Successful ************
+2024-03-30 23:50:37,809 - root - INFO - **************** Creating Employee ****************
+2024-03-30 23:50:43,101 - root - INFO - ***************** Employee Created ***************
+2024-03-30 23:50:43,101 - root - INFO - ***************** Test_008_DDT_CreateEmployee Successful ***************
+2024-03-30 23:53:33,007 - selenium.webdriver.common.selenium_manager - WARNING - The chromedriver version (122.0.6261.128) detected in PATH at C:\Users\CHARLIE\AppData\Local\Programs\Python\Python312\Scripts\chromedriver.exe might not be compatible with the detected chrome version (123.0.6312.86); currently, chromedriver 123.0.6312.86 is recommended for chrome 123.*, so it is advised to delete the driver in PATH and retry
+2024-03-30 23:53:36,228 - root - INFO - **************** Starting Creating Employee Test ****************
+2024-03-30 23:54:07,931 - root - INFO - ************ Login Successful ************
+2024-03-30 23:54:07,932 - root - INFO - **************** Creating Employee ****************
+2024-03-30 23:54:32,644 - root - INFO - ***************** Employee Created ***************
+2024-03-30 23:54:32,644 - root - INFO - ***************** Test_002_CreateEmployee Successful ***************
+2024-03-30 23:54:57,877 - selenium.webdriver.common.selenium_manager - WARNING - The chromedriver version (122.0.6261.128) detected in PATH at C:\Users\CHARLIE\AppData\Local\Programs\Python\Python312\Scripts\chromedriver.exe might not be compatible with the detected chrome version (123.0.6312.86); currently, chromedriver 123.0.6312.86 is recommended for chrome 123.*, so it is advised to delete the driver in PATH and retry
+2024-03-30 23:55:04,923 - root - INFO - **************** Starting Search Employee Test****************
+2024-03-30 23:55:34,298 - root - INFO - ************ Login Successful ************
+2024-03-30 23:55:34,298 - root - INFO - **************** Searching Employee By Name ****************
+2024-03-30 23:55:41,076 - root - INFO - *************** Search Successful ****************
+2024-03-30 23:56:24,387 - selenium.webdriver.common.selenium_manager - WARNING - The chromedriver version (122.0.6261.128) detected in PATH at C:\Users\CHARLIE\AppData\Local\Programs\Python\Python312\Scripts\chromedriver.exe might not be compatible with the detected chrome version (123.0.6312.86); currently, chromedriver 123.0.6312.86 is recommended for chrome 123.*, so it is advised to delete the driver in PATH and retry
+2024-03-30 23:56:28,398 - root - INFO - **************** Starting Search Employee Test****************
+2024-03-30 23:56:52,952 - root - INFO - ************ Login Successful ************
+2024-03-30 23:56:52,952 - root - INFO - **************** Searching Employee By ID ****************
+2024-03-30 23:57:00,780 - root - INFO - *************** Search Successful ****************
+2024-03-30 23:59:17,045 - selenium.webdriver.common.selenium_manager - WARNING - The chromedriver version (122.0.6261.128) detected in PATH at C:\Users\CHARLIE\AppData\Local\Programs\Python\Python312\Scripts\chromedriver.exe might not be compatible with the detected chrome version (123.0.6312.86); currently, chromedriver 123.0.6312.86 is recommended for chrome 123.*, so it is advised to delete the driver in PATH and retry
+2024-03-30 23:59:19,950 - root - INFO - **************** Starting Registering Employee as UserTest ****************
+2024-03-30 23:59:38,150 - root - INFO - ************ Login Successful ************
+2024-03-30 23:59:38,150 - root - INFO - **************** Registering Employee as User ****************
+2024-03-31 00:03:37,623 - selenium.webdriver.common.selenium_manager - WARNING - The chromedriver version (122.0.6261.128) detected in PATH at C:\Users\CHARLIE\AppData\Local\Programs\Python\Python312\Scripts\chromedriver.exe might not be compatible with the detected chrome version (123.0.6312.86); currently, chromedriver 123.0.6312.86 is recommended for chrome 123.*, so it is advised to delete the driver in PATH and retry
+2024-03-31 00:03:39,924 - root - INFO - **************** Starting Registering Employee as UserTest ****************
+2024-03-31 00:03:56,789 - root - INFO - ************ Login Successful ************
+2024-03-31 00:03:56,790 - root - INFO - **************** Registering Employee as User ****************
+2024-03-31 00:05:16,744 - selenium.webdriver.common.selenium_manager - WARNING - The chromedriver version (122.0.6261.128) detected in PATH at C:\Users\CHARLIE\AppData\Local\Programs\Python\Python312\Scripts\chromedriver.exe might not be compatible with the detected chrome version (123.0.6312.86); currently, chromedriver 123.0.6312.86 is recommended for chrome 123.*, so it is advised to delete the driver in PATH and retry
+2024-03-31 00:05:20,825 - root - INFO - **************** Starting Registering Employee as UserTest ****************
+2024-03-31 00:05:38,142 - root - INFO - ************ Login Successful ************
+2024-03-31 00:05:38,143 - root - INFO - **************** Registering Employee as User ****************
+2024-03-31 00:12:51,737 - selenium.webdriver.common.selenium_manager - WARNING - The chromedriver version (122.0.6261.128) detected in PATH at C:\Users\CHARLIE\AppData\Local\Programs\Python\Python312\Scripts\chromedriver.exe might not be compatible with the detected chrome version (123.0.6312.86); currently, chromedriver 123.0.6312.86 is recommended for chrome 123.*, so it is advised to delete the driver in PATH and retry
+2024-03-31 00:13:07,964 - root - INFO - **************** Starting Registering Employee as UserTest ****************
+2024-03-31 00:13:26,066 - root - INFO - ************ Login Successful ************
+2024-03-31 00:13:26,066 - root - INFO - **************** Registering Employee as User ****************
+2024-03-31 00:15:22,544 - selenium.webdriver.common.selenium_manager - WARNING - The chromedriver version (122.0.6261.128) detected in PATH at C:\Users\CHARLIE\AppData\Local\Programs\Python\Python312\Scripts\chromedriver.exe might not be compatible with the detected chrome version (123.0.6312.86); currently, chromedriver 123.0.6312.86 is recommended for chrome 123.*, so it is advised to delete the driver in PATH and retry
+2024-03-31 00:15:26,380 - root - INFO - **************** Starting Personal Details Test****************
+2024-03-31 00:15:48,162 - root - INFO - ************ Login Successful ************
+2024-03-31 00:15:48,163 - root - INFO - ****************Editing Personal Details ****************
+2024-03-31 00:16:07,880 - selenium.webdriver.common.selenium_manager - WARNING - The chromedriver version (122.0.6261.128) detected in PATH at C:\Users\CHARLIE\AppData\Local\Programs\Python\Python312\Scripts\chromedriver.exe might not be compatible with the detected chrome version (123.0.6312.86); currently, chromedriver 123.0.6312.86 is recommended for chrome 123.*, so it is advised to delete the driver in PATH and retry
+2024-03-31 00:16:13,382 - root - INFO - **************** Starting Custom Field Test****************
+2024-03-31 00:16:32,439 - root - INFO - ************ Login Successful ************
+2024-03-31 00:16:32,439 - root - INFO - ****************Editing Custom Field ****************
+2024-03-31 00:17:02,988 - selenium.webdriver.common.selenium_manager - WARNING - The chromedriver version (122.0.6261.128) detected in PATH at C:\Users\CHARLIE\AppData\Local\Programs\Python\Python312\Scripts\chromedriver.exe might not be compatible with the detected chrome version (123.0.6312.86); currently, chromedriver 123.0.6312.86 is recommended for chrome 123.*, so it is advised to delete the driver in PATH and retry
+2024-03-31 00:17:11,042 - root - INFO - **************** Starting Attachment Test****************
+2024-03-31 00:17:32,900 - root - INFO - ************ Login Successful ************
+2024-03-31 00:17:32,900 - root - INFO - **************** Adding Attachment ****************
+2024-03-31 00:20:41,225 - selenium.webdriver.common.selenium_manager - WARNING - The chromedriver version (122.0.6261.128) detected in PATH at C:\Users\CHARLIE\AppData\Local\Programs\Python\Python312\Scripts\chromedriver.exe might not be compatible with the detected chrome version (123.0.6312.86); currently, chromedriver 123.0.6312.86 is recommended for chrome 123.*, so it is advised to delete the driver in PATH and retry
+2024-03-31 00:20:45,558 - root - INFO - **************** Starting Personal Details Test****************
+2024-03-31 00:21:04,762 - root - INFO - ************ Login Successful ************
+2024-03-31 00:21:04,762 - root - INFO - ****************Editing Personal Details ****************
+2024-03-31 00:21:16,135 - root - INFO - *************** Edit Successful ****************
+2024-03-31 00:21:20,506 - selenium.webdriver.common.selenium_manager - WARNING - The chromedriver version (122.0.6261.128) detected in PATH at C:\Users\CHARLIE\AppData\Local\Programs\Python\Python312\Scripts\chromedriver.exe might not be compatible with the detected chrome version (123.0.6312.86); currently, chromedriver 123.0.6312.86 is recommended for chrome 123.*, so it is advised to delete the driver in PATH and retry
+2024-03-31 00:21:22,725 - root - INFO - **************** Starting Custom Field Test****************
+2024-03-31 00:21:33,353 - root - INFO - ************ Login Successful ************
+2024-03-31 00:21:33,353 - root - INFO - ****************Editing Custom Field ****************
+2024-03-31 00:21:40,490 - selenium.webdriver.common.selenium_manager - WARNING - The chromedriver version (122.0.6261.128) detected in PATH at C:\Users\CHARLIE\AppData\Local\Programs\Python\Python312\Scripts\chromedriver.exe might not be compatible with the detected chrome version (123.0.6312.86); currently, chromedriver 123.0.6312.86 is recommended for chrome 123.*, so it is advised to delete the driver in PATH and retry
+2024-03-31 00:21:42,279 - root - INFO - **************** Starting Attachment Test****************
+2024-03-31 00:21:52,922 - root - INFO - ************ Login Successful ************
+2024-03-31 00:21:52,922 - root - INFO - **************** Adding Attachment ****************
