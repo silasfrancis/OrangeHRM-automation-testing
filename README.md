@@ -40,44 +40,21 @@ pip install allure-pytest
 ```
 
 ## Test Execution
-### 1. Tests could be executed by running the following commands:
-#### Chrome Browser:
+## Test Execution
+Test Execution commands can be found in the run.bat file located in this respository 
+
+#### Browser Supported:
+- Chrome (--browser chrome)
+- Edge (--browser edge)
+- Firefox (--browser firefox)
+  
 ```bash
+e.g.
 pytest -s -v --html=Reports/report_login.html testCases/test_login.py --browser chrome
-pytest -s -v --html=Reports/report_createEmployee.html testCases/test_createEmployee.py --browser chrome
-pytest -s -v --html=Reports/report_registerEmp_asUser.html testCases/test_registerEmployeeasUser.py --browser chrome
-pytest -s -v --html=Reports/report_updateEmpDetails.html testCases/test_UpdateEmployeeDetails.py --browser chrome
-pytest -s -v --html=Reports/report_searchEmp_byName.html testCases/test_searchEmployeeByName.py --browser chrome
-pytest -s -v --html=Reports/report_SearchEmp_byId.html testCases/test_searchEmployeeById.py --browser chrome
-pytest -s -v --html=Reports/report_test_loginDDT.html testCases/test_loginDDT.py --browser chrome
-pytest -s -v --html=Reports/report_createEmp_DDT.html testCases/test_createEmployeeDDT.py --browser chrome
 ```
-#### Edge: 
-```bash
-pytest -s -v --html=Reports/report_login.html testCases/test_login.py --browser edge
-pytest -s -v --html=Reports/report_createEmployee.html testCases/test_createEmployee.py --browser edge
-pytest -s -v --html=Reports/report_registerEmp_asUser.html testCases/test_registerEmployeeasUser.py --browser edge
-pytest -s -v --html=Reports/report_updateEmpDetails.html testCases/test_UpdateEmployeeDetails.py --browser edge
-pytest -s -v --html=Reports/report_searchEmp_byName.html testCases/test_searchEmployeeByName.py --browser edge
-pytest -s -v --html=Reports/report_SearchEmp_byId.html testCases/test_searchEmployeeById.py --browser edge
-pytest -s -v --html=Reports/report_test_loginDDT.html testCases/test_loginDDT.py --browser edge
-pytest -s -v --html=Reports/report_createEmp_DDT.html testCases/test_createEmployeeDDT.py --browser edge
-```
-#### Firefox: 
-```
-pytest -s -v --html=Reports/report_login.html testCases/test_login.py --browser firefox
-pytest -s -v --html=Reports/report_createEmployee.html testCases/test_createEmployee.py --browser firefox
-pytest -s -v --html=Reports/report_registerEmp_asUser.html testCases/test_registerEmployeeasUser.py --browser firefox
-pytest -s -v --html=Reports/report_updateEmpDetails.html testCases/test_UpdateEmployeeDetails.py --browser firefox
-pytest -s -v --html=Reports/report_searchEmp_byName.html testCases/test_searchEmployeeByName.py --browser firefox
-pytest -s -v --html=Reports/report_SearchEmp_byId.html testCases/test_searchEmployeeById.py --browser firefox
-pytest -s -v --html=Reports/report_test_loginDDT.html testCases/test_loginDDT.py --browser firefox
-pytest -s -v --html=Reports/report_createEmp_DDT.html testCases/test_createEmployeeDDT.py --browser firefox
-```
-### 2. Running the Batch File located in this directory:
-   Test can also be executed by running the batch file located in this directory.
-   Double click on in or switch directory to this directory on command prompt and run the batch file from there
-   - N/B: The batch file will run on default browser for now, but can be edited .
+> This will run test on Chrome Browser
+If no browser is specified test will be executed on chrome
+
    
 
 
