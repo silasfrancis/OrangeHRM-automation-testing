@@ -53,7 +53,8 @@ e.g.
 pytest -s -v --html=Reports/report_login.html testCases/test_login.py --browser chrome
 ```
 > This will run test on Chrome Browser
-If no browser is specified test will be executed on chrome
+
+N/B: If no browser is specified test will be executed on chrome
 
    
 
