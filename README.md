@@ -5,7 +5,7 @@ This project involves the testing of the PIM Module on the OrangeHRM Demo Platfo
 - Page Object Model
 - HTML Reports
 - Data Driven Testing
-- Logging
+- Automation logs
 - Multiple Browsers Support
 - Parallel Testing
 
